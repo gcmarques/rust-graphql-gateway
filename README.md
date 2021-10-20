@@ -1,1 +1,1 @@
-# graphql-gateway
+# Rust GraphQL Gateway
